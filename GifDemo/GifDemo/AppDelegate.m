@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  GifDemo
 //
-//  Created by chuanglong03 on 16/6/16.
+//  Created by chuanglong03 on 16/6/27.
 //  Copyright © 2016年 chuanglong. All rights reserved.
 //
 

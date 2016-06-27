@@ -10,7 +10,7 @@
 
 #import "ViewController.h"
 #import "GifView.h"
-#import <UIImage+GIF.h>
+#import "UIImage+GIF.h"
 
 @interface ViewController ()
 
