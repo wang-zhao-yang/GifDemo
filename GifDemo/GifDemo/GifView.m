@@ -36,6 +36,11 @@
     return self;
 }
 
+//- (instancetype)initGifProperties {
+//    NSDictionary *dic = [NSDictionary dictionaryWithObject:[NSNumber numberWithInt:0] forKey:(NSString *)kCGImagePropertyGIFLoopCount];
+//    return [NSDictionary dictionaryWithObject:dic forKey:(NSString *)kCGImagePropertyGIFDictionary];
+//}
+
 - (void)play {
     index++;
     index = index % count;
